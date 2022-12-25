@@ -14,7 +14,8 @@ Dokumen Official :
 
 # Spesifikasi VPS
 4 Core CPU
-8 GB RA,
+
+8 GB RAM
 
 # Langkah - langkah install node 
 # Download & install
@@ -30,6 +31,7 @@ sudo ./app service start
 ./app status
 ```
 output harus 
+
 `check gaganode status is RUNNING`
 # Set token
 ```console
